@@ -5,7 +5,7 @@ title:命运2 DIM Wish List
 dimwishlist:item=547165496&perks=269888150,1749209109,1089671869
 
 //notes:S26电600机枪
-//#notes:清怪
+清怪
 dimwishlist:item=1757177186&perks=3643424744,557221067
 
 
