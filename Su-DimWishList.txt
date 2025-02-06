@@ -1,4 +1,5 @@
 title:命运2 DIM Wish List
+
 //notes:S26敷丝波形刀剑
 //#notes:输出
 dimwishlist:item=547165496&perks=269888150,1749209109,1089671869
