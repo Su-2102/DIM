@@ -1,16 +1,18 @@
 title:命运2 DIM Wish List
 
 //notes:S26敷丝波形刀剑
+dimwishlist:item=547165496
 //notes:输出
 dimwishlist:item=547165496&perks=269888150,1749209109,1089671869
 
 //notes:S26电600机枪
-清怪
-
+dimwishlist:item=1757177186
+//notes:清怪
 dimwishlist:item=1757177186&perks=3643424744,557221067
 
 
 //notes:S26 vog锻造开启 手炮 PVP
+dimwishlist:item=4184168210
 //notes:射程拉满的配置855
 dimwishlist:item=4184168210&perks=202670084,3142289711,3619207468,555281244,2589407652
 //notes:均衡配置766
