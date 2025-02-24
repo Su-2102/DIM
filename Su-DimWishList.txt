@@ -1,5 +1,9 @@
 title:命运2 DIM Wish List
 
+//notes：熔炉-还击者-PVE
+dimwishlist:item=3754408118&perks=1840239774,1885400500,776531651,2048641572,1067908860
+dimwishlist:item=3754408118&perks=776531651,2048641572,1067908860
+
 
 //notes:S25冰120手炮 切勿+精准
 dimwishlist:item=2823644677&perks=3619207468,555281244
